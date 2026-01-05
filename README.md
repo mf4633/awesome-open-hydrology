@@ -2,7 +2,9 @@
 <a name="awesome-open-hydrology"></a>
 > Open (Eco-)Hydrology is (mostly) [awesome](awesome.md).
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/Open-Environmental-Science/awesome-open-hydrology.svg?branch=master)](https://travis-ci.org/Open-Environmental-Science/awesome-open-hydrology) [![Contributions](https://img.shields.io/github/issues-pr-closed-raw/Open-Environmental-Science/awesome-open-hydrology.svg?label=contributions)](https://github.com/Open-Environmental-Science/awesome-open-hydrology/pulls) [![Commits](https://img.shields.io/github/last-commit/Open-Environmental-Science/awesome-open-hydrology.svg?label=last%20contribution)](https://github.com/Open-Environmental-Science/awesome-open-hydrology/commits/master) [![License](https://img.shields.io/github/license/Open-Environmental-Science/awesome-open-hydrology.svg)](https://github.com/Open-Environmental-Science/awesome-open-hydrology/blob/master/LICENSE)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Contributions](https://img.shields.io/github/issues-pr-closed-raw/Open-Environmental-Science/awesome-open-hydrology.svg?label=contributions)](https://github.com/Open-Environmental-Science/awesome-open-hydrology/pulls) 
+[![License](https://img.shields.io/github/license/Open-Environmental-Science/awesome-open-hydrology.svg)](https://github.com/Open-Environmental-Science/awesome-open-hydrology/blob/master/LICENSE)
 
 Inspired by the below-mentioned list for geoscience by [softwareunderground](https://github.com/softwareunderground), we made a specific list of open hydrology-relevant projects. This list is curated from repositories that make our lives as (eco-)hydrologists easier. We add the ![Awesome](media/icon/awesome.png) label to repositories that are in accordance with the [awesome](awesome.md) manifesto. This is a community effort, so please [contribute](contributing.md)!
 
