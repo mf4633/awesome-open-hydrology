@@ -72,7 +72,8 @@ Awesome software projects sub-categorized by focus.
 ## Data Repositories
 <a name="data-repositories"></a>
 
-- ![Awesome](media/icon/awesome.png) [Quantarctica](https://www.npolar.no/quantarctica/) – User-configurable [QGIS](#platforms) basemap for Antarctica with high-quality, peer-reviewed, free and open Antarctic scientific data 
+- ![Awesome](media/icon/awesome.png) [Quantarctica](https://www.npolar.no/quantarctica/) – User-configurable [QGIS](#platforms) basemap for Antarctica with high-quality, peer-reviewed, free and open Antarctic scientific data
+- [US Water Quality by ZIP Code](https://github.com/artakulov/us-water-quality-data) – Drinking water quality data for 6,300+ US ZIP codes derived from EPA records, with an open API at api.zipcheckup.com. CC BY 4.0.
 
 | ▲ [Top](#awesome-open-hydrology) |
 
